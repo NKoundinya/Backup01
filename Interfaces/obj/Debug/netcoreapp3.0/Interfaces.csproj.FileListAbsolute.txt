@@ -1,0 +1,11 @@
+C:\Users\koundinyan\source\repos\Interfaces\bin\Debug\netcoreapp3.0\Interfaces.deps.json
+C:\Users\koundinyan\source\repos\Interfaces\bin\Debug\netcoreapp3.0\Interfaces.dll
+C:\Users\koundinyan\source\repos\Interfaces\obj\Debug\netcoreapp3.0\Interfaces.csprojAssemblyReference.cache
+C:\Users\koundinyan\source\repos\Interfaces\obj\Debug\netcoreapp3.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\koundinyan\source\repos\Interfaces\obj\Debug\netcoreapp3.0\Interfaces.AssemblyInfo.cs
+C:\Users\koundinyan\source\repos\Interfaces\bin\Debug\netcoreapp3.0\Interfaces.pdb
+C:\Users\koundinyan\source\repos\Interfaces\bin\Debug\netcoreapp3.0\Entity.dll
+C:\Users\koundinyan\source\repos\Interfaces\bin\Debug\netcoreapp3.0\Entity.pdb
+C:\Users\koundinyan\source\repos\Interfaces\obj\Debug\netcoreapp3.0\Interfaces.csproj.CopyComplete
+C:\Users\koundinyan\source\repos\Interfaces\obj\Debug\netcoreapp3.0\Interfaces.dll
+C:\Users\koundinyan\source\repos\Interfaces\obj\Debug\netcoreapp3.0\Interfaces.pdb
